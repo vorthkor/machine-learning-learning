@@ -9,4 +9,6 @@ Studies on machine learning.
 
 ### Tests
 
-On `knn-test.ipynb` I'm using the *Alcohol consumption* dataset.
+- On `knn-test.ipynb` I'm using the *Alcohol consumption* dataset.
+- On `dec-tree.ipynb` I'm also using the *Alcohol consumption* dataset.
+  
