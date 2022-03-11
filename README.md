@@ -12,3 +12,13 @@ Studies on machine learning.
 - On `knn-test.ipynb` I'm using the *Alcohol consumption* dataset.
 - On `dec-tree.ipynb` I'm also using the *Alcohol consumption* dataset.
   
+
+## Courses
+
+### Tensorflow image processor
+
+[Introduction to tensorflow](https://lab.github.com/everydeveloper/introduction-to-tensorflow)
+
+### Tensorflow pokemon
+
+[advanced tensorflow](https://lab.github.com/everydeveloper/advance-tensorflow)
